@@ -3,8 +3,6 @@
 This project is an implementation of a well known game Tic Tac Toe in Ruby OO.
 
 ## Setup
-
-## Setup
 Clone this repository in your terminal:
 
 ```console
