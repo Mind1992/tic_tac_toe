@@ -1,9 +1,21 @@
 # Tic Tac Toe
 
-This project is an implemtation of a well known game Tic Tac Toe in Ruby OO.
+This project is an implementation of a well known game Tic Tac Toe in Ruby OO.
 
 ## Setup
-Clone this repository or download the .zip. In Terminal open up the folder tic_tac_toe, run this command "ruby address_book.rb" and play around with the game.
+
+## Setup
+Clone this repository in your terminal:
+
+```console
+$ git clone https://github.com/Mind1992/tic_tac_toe.git
+```
+
+In Terminal open up the folder tic_tac_toe and run this:
+
+```console
+$ ruby tictactoe.rb
+```
 
 ## Author
 Sergii Mertsalov & Guy Halperin
